@@ -2,7 +2,7 @@
 
 Welcome to **MatchHub**, a state-of-the-art, full-stack, enterprise-grade recommendation platform spanning multiple media domains — specifically movies, books, and songs.
 
-**🌐 Live Demo:** [https://match-hub-recommendations.vercel.app](https://match-hub-recommendations.vercel.app)<br>
+**🌐 Live Demo:** [https://match-hub-recommendation.vercel.app](https://match-hub-recommendation.vercel.app)<br>
 (NOTE:Since the backend and model is deployed on Render's free version it would take 1 to 2 mins to reload completely)
 
 MatchHub leverages modern web technologies combined with Machine Learning (ML) techniques—specifically Natural Language Processing (NLP) and content-based filtering algorithms—to deliver highly personalized, instantaneous suggestions. By analyzing and transforming rich metadata attributes such as genres, plots, authors, artists, albums, cast, and publishers into mathematical vectors, the platform identifies the closest semantic matches to whatever media you search for.
